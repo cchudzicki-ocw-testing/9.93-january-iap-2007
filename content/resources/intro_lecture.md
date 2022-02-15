@@ -5,6 +5,7 @@ description: Lecture presentation providing an introduction to Marathon Moral Re
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/9-93-marathon-moral-reasoning-laboratory-january-iap-2007/368c030b1ebd77b9d3098a16680f21e8_intro_lecture.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
