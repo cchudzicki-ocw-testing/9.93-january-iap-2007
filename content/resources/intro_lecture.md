@@ -9,6 +9,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: MMoRL
-type: OCWFile
 uid: 368c030b-1ebd-77b9-d309-8a16680f21e8
 ---

@@ -8,6 +8,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: List of Sample Dilemmas
-type: OCWFile
 uid: 44dd972b-e0e6-5241-7f8b-5531ebc26201
 ---
