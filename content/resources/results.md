@@ -6,6 +6,7 @@ file: /courses/9-93-marathon-moral-reasoning-laboratory-january-iap-2007/2e59e8b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
